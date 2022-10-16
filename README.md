@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aldiruli
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning nodejs and vuejs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me aldiruli666@gmail.com
 
 <!---
 aldiruli/aldiruli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
