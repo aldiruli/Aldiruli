@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aldiruli
-- 👀 I’m interested in web development
+- 👀 I’m Fullstack Web Developer
 - 🌱 I’m currently learning nodejs and vuejs
 - 📫 How to reach me aldiruli1@gmail.com
 
